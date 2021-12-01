@@ -73,4 +73,4 @@ module YubinBango {
   }
 }
 
-export = YubinBango;
+export default YubinBango;
