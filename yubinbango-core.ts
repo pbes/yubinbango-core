@@ -73,4 +73,4 @@ module YubinBango {
   }
 }
 
-export default YubinBango;
+export default YubinBango.Core;
